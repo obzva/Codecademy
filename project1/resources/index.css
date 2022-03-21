@@ -1,0 +1,36 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.bannerText{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('./images/image1.jpeg');
+    margin: 50px auto;
+}
+
+.contentTitle1 {
+    background-color: mediumspringgreen;
+}
+
+.contentTitle2 {
+    background-color: lightcoral;
+}
+
+.contentTitle3 {
+    background-color: skyblue;
+}
